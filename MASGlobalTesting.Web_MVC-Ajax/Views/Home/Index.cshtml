@@ -1,0 +1,50 @@
+﻿@{
+    ViewData["Title"] = "Employee";
+}
+<div class="text-center">
+    <div class="">
+        <div class="form-group col-md-4">
+            <label for="txtId">Input Employee Id:</label>
+            <input type="number" class="form-control" id="txtId">
+        </div>
+        <div class="col-md-4">
+            <button id="btnSearch" type="button" class="btn btn-primary">Get Employees</button>
+        </div>
+    </div>
+    <div class="row">
+        <br />
+        <table id="table">
+            <thead>
+                <tr>
+                    <th data-field="id">Id</th>
+                    <th data-field="name">Name</th>
+                    <th data-field="contractTypeName">Contract Type</th>
+                    <th data-field="roleName">Role</th>
+                    <th data-field="hourlySalary">Hourly Salary</th>
+                    <th data-field="monthlySalary">Monthly Salary</th>
+                    <th data-field="annualSalary">Annual Salary</th>
+                </tr>
+            </thead>
+        </table>
+    </div>
+</div>
+
+@section Scripts
+{
+    <script>
+        $(document).ready(function () {
+            $('#table').bootstrapTable();
+            $('#btnSearch').click(function () {
+                get('@ViewData["Title"]', $('#txtId').val()).then(function (resolve) {
+                    info = [];
+                    if (Array.isArray(resolve.result))
+                        info = resolve.result;
+                    else
+                        info.push(resolve.result);
+                    $('#table').bootstrapTable('destroy').bootstrapTable({ data: info });
+            });
+        });
+    });
+    </script>
+
+}

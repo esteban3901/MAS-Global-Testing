@@ -1,0 +1,14 @@
+C:\Proyectos\Desarrollo\MASGlobalTesting\MASGlobalTesting.BLL\bin\Debug\netcoreapp3.1\MASGlobalTesting.BLL.deps.json
+C:\Proyectos\Desarrollo\MASGlobalTesting\MASGlobalTesting.BLL\bin\Debug\netcoreapp3.1\MASGlobalTesting.BLL.dll
+C:\Proyectos\Desarrollo\MASGlobalTesting\MASGlobalTesting.BLL\bin\Debug\netcoreapp3.1\MASGlobalTesting.BLL.pdb
+C:\Proyectos\Desarrollo\MASGlobalTesting\MASGlobalTesting.BLL\bin\Debug\netcoreapp3.1\MASGlobalTesting.DAL.dll
+C:\Proyectos\Desarrollo\MASGlobalTesting\MASGlobalTesting.BLL\bin\Debug\netcoreapp3.1\MASGlobalTesting.DTO.dll
+C:\Proyectos\Desarrollo\MASGlobalTesting\MASGlobalTesting.BLL\bin\Debug\netcoreapp3.1\MASGlobalTesting.DAL.pdb
+C:\Proyectos\Desarrollo\MASGlobalTesting\MASGlobalTesting.BLL\bin\Debug\netcoreapp3.1\MASGlobalTesting.DTO.pdb
+C:\Proyectos\Desarrollo\MASGlobalTesting\MASGlobalTesting.BLL\obj\Debug\netcoreapp3.1\MASGlobalTesting.BLL.csprojAssemblyReference.cache
+C:\Proyectos\Desarrollo\MASGlobalTesting\MASGlobalTesting.BLL\obj\Debug\netcoreapp3.1\MASGlobalTesting.BLL.AssemblyInfoInputs.cache
+C:\Proyectos\Desarrollo\MASGlobalTesting\MASGlobalTesting.BLL\obj\Debug\netcoreapp3.1\MASGlobalTesting.BLL.AssemblyInfo.cs
+C:\Proyectos\Desarrollo\MASGlobalTesting\MASGlobalTesting.BLL\obj\Debug\netcoreapp3.1\MASGlobalTesting.BLL.csproj.CoreCompileInputs.cache
+C:\Proyectos\Desarrollo\MASGlobalTesting\MASGlobalTesting.BLL\obj\Debug\netcoreapp3.1\MASGlobalTesting.BLL.csproj.CopyComplete
+C:\Proyectos\Desarrollo\MASGlobalTesting\MASGlobalTesting.BLL\obj\Debug\netcoreapp3.1\MASGlobalTesting.BLL.dll
+C:\Proyectos\Desarrollo\MASGlobalTesting\MASGlobalTesting.BLL\obj\Debug\netcoreapp3.1\MASGlobalTesting.BLL.pdb
