@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "dHbTJF3Ak6syZ9r0TY1sJ/yU5ctWC+fOWV95tPfiqRcz9TLf5x2Q3fL0XrQhiml2dx3XSvyY/rW/XMDH3apbGQ==",
+  "success": true,
+  "projectFilePath": "C:\\Proyectos\\Desarrollo\\MASGlobalTesting\\MASGlobalTesting.DAL\\MASGlobalTesting.DAL.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\1Cero1\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\5.0.0\\microsoft.extensions.configuration.abstractions.5.0.0.nupkg.sha512",
+    "C:\\Users\\1Cero1\\.nuget\\packages\\microsoft.extensions.primitives\\5.0.0\\microsoft.extensions.primitives.5.0.0.nupkg.sha512",
+    "C:\\Users\\1Cero1\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

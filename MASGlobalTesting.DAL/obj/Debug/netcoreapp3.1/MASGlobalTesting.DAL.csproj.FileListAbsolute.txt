@@ -1,0 +1,8 @@
+C:\Proyectos\Desarrollo\MASGlobalTesting\MASGlobalTesting.DAL\bin\Debug\netcoreapp3.1\MASGlobalTesting.DAL.deps.json
+C:\Proyectos\Desarrollo\MASGlobalTesting\MASGlobalTesting.DAL\bin\Debug\netcoreapp3.1\MASGlobalTesting.DAL.dll
+C:\Proyectos\Desarrollo\MASGlobalTesting\MASGlobalTesting.DAL\bin\Debug\netcoreapp3.1\MASGlobalTesting.DAL.pdb
+C:\Proyectos\Desarrollo\MASGlobalTesting\MASGlobalTesting.DAL\obj\Debug\netcoreapp3.1\MASGlobalTesting.DAL.AssemblyInfoInputs.cache
+C:\Proyectos\Desarrollo\MASGlobalTesting\MASGlobalTesting.DAL\obj\Debug\netcoreapp3.1\MASGlobalTesting.DAL.AssemblyInfo.cs
+C:\Proyectos\Desarrollo\MASGlobalTesting\MASGlobalTesting.DAL\obj\Debug\netcoreapp3.1\MASGlobalTesting.DAL.csproj.CoreCompileInputs.cache
+C:\Proyectos\Desarrollo\MASGlobalTesting\MASGlobalTesting.DAL\obj\Debug\netcoreapp3.1\MASGlobalTesting.DAL.dll
+C:\Proyectos\Desarrollo\MASGlobalTesting\MASGlobalTesting.DAL\obj\Debug\netcoreapp3.1\MASGlobalTesting.DAL.pdb
